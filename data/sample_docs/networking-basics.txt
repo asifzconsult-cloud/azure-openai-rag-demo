@@ -1,1 +1,5 @@
+Basic networking notes for troubleshooting connectivity issues in Azure and on-prem environments.
+- Check DNS resolution
+- Check NSG and firewall rules
+- Verify routing and VPN connectivity
 
